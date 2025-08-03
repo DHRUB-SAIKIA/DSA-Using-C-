@@ -1,0 +1,17 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	int n;
+	cin>>n;
+	
+	if(n%2==0)
+	{
+		cout<<"it is an even"<<endl;
+	}
+	else{
+		cout<<"it is odd"<<endl;
+	}
+	return 0;
+	
+}
